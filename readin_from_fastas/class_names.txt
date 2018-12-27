@@ -1,0 +1,16 @@
+class1-PDOC00137.fasta
+class2-PDOC50003.fasta
+class3-PS00178.fasta
+class4-PS50862.fasta
+class5-major+facilitator+superfamily.fasta
+class6-ATP+synthase+B-B.fasta
+class7-Aldehyde+dehydrogenase+family.fasta
+class8-EPSP+synthase.fasta
+class9-Histidine+biosynthesis+protein.fasta
+class10-Hsp70+protein.fasta
+class11-RNA+polymerase+beta+subunit.fasta
+class12-Ribosomal+protein+L20.fasta	(x)
+class13-Ribosomal+protein+S11.fasta	(x)
+class14-Ribosomal+protein+S18.fasta	(x)
+class15-Ribosomal+protein+S2.fasta
+class16-Peptidase+family+M20-M25-M40.fasta	(x)
