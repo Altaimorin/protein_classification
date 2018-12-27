@@ -1,0 +1,8 @@
+#!/bin/bash
+a=3 # example
+for ((i = 1; i <=a; i++)); do
+  for ((j = i+1; j <=a; j++)); do
+    cat "file$i.txt" "file$j.txt" >"file$i"_"$j.txt"
+   echo "$i $j"
+  done
+done
